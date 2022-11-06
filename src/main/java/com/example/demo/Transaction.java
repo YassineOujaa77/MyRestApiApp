@@ -3,7 +3,9 @@ package com.example.demo;
 public class Transaction {
 
     int id ;
-    String name , price ,date ;
+    String name;
+    String price;
+    String date ;
 
     public Transaction(int id, String name, String price, String date) {
         this.id = id;
