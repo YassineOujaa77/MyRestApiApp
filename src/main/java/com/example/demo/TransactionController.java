@@ -24,6 +24,12 @@ public class TransactionController {
     }
 
 
+    public void hello(){
+        System.out.println("hello ");
+    }
 
+    public void saad(){
+        System.out.println("saad ");
+    }
 
 }
