@@ -24,6 +24,8 @@ public class TransactionController {
     }
 
 
-
+    public void hello(){
+        System.out.println("hello ");
+    }
 
 }
