@@ -16,6 +16,7 @@ public class TransactionService {
         transactions.add(new Transaction(2,"name2","1771","10/07/22"));
         transactions.add(new Transaction(3,"name3","1400","11/03/22"));
         transactions.add(new Transaction(4,"name4","12","17/02/22"));
+        transactions.add(new Transaction(5,"name5","13","12/02/22"));
 
         return transactions;
 
